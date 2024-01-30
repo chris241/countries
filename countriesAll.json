@@ -27,7 +27,7 @@
     "key": "AI",
     "latitude": 18.220554,
     "longitude": -63.068615,
-    "name": "Anguilla"
+    "name": "Anguilla (united kingdom)"
   },
   {
     "key": "AL",
@@ -69,7 +69,7 @@
     "key": "AS",
     "latitude": -14.270972,
     "longitude": -170.132217,
-    "name": "American Samoa"
+    "name": "American Samoa (united states)"
   },
   {
     "key": "AT",
@@ -87,7 +87,7 @@
     "key": "AW",
     "latitude": 12.52111,
     "longitude": -69.968338,
-    "name": "Aruba"
+    "name": "Aruba (netherlands)"
   },
   {
     "key": "AX",
@@ -165,7 +165,7 @@
     "key": "BM",
     "latitude": 32.321384,
     "longitude": -64.75737,
-    "name": "Bermuda"
+    "name": "Bermuda (united kingdom)"
   },
   {
     "key": "BN",
@@ -255,7 +255,7 @@
     "key": "CG",
     "latitude": -0.228021,
     "longitude": 15.827659,
-    "name": "Congo [Republic]"
+    "name": "Republic of Congo (brazzaville)"
   },
   {
     "key": "CH",
@@ -267,7 +267,7 @@
     "key": "CI",
     "latitude": 7.539989,
     "longitude": -5.54708,
-    "name": "Côte d'Ivoire"
+    "name": "Côte d'Ivoire (ivory coast)"
   },
   {
     "key": "CK",
@@ -321,7 +321,7 @@
     "key": "CW",
     "latitude": 12.1695700,
     "longitude": -68.9900200,
-    "name": "Curaçao"
+    "name": "Curaçao (Netherlands)"
   },
   {
     "key": "CX",
@@ -435,7 +435,7 @@
     "key": "FK",
     "latitude": -51.796253,
     "longitude": -59.523613,
-    "name": "Falkland Islands [Islas Malvinas]"
+    "name": "Falkland Islands (united kingdom)"
   },
   {
     "key": "FM",
@@ -483,7 +483,7 @@
     "key": "GF",
     "latitude": 3.933889,
     "longitude": -53.125782,
-    "name": "French Guiana"
+    "name": "French Guiana (france)"
   },
   {
     "key": "GG",
@@ -501,7 +501,7 @@
     "key": "GI",
     "latitude": 36.137741,
     "longitude": -5.345374,
-    "name": "Gibraltar"
+    "name": "Gibraltar (united kingdom)"
   },
   {
     "key": "GL",
@@ -525,7 +525,7 @@
     "key": "GP",
     "latitude": 16.995971,
     "longitude": -62.067641,
-    "name": "Guadeloupe"
+    "name": "Guadeloupe (france)"
   },
   {
     "key": "GQ",
@@ -543,7 +543,7 @@
     "key": "GS",
     "latitude": -54.429579,
     "longitude": -36.587909,
-    "name": "South Georgia and the South Sandwich Islands"
+    "name": "South Georgia and the South Sandwich Islands (united kingdom)"
   },
   {
     "key": "GT",
@@ -555,7 +555,7 @@
     "key": "GU",
     "latitude": 13.444304,
     "longitude": 144.793731,
-    "name": "Guam"
+    "name": "Guam (united states)"
   },
   {
     "key": "GW",
@@ -633,7 +633,7 @@
     "key": "IM",
     "latitude": 54.236107,
     "longitude": -4.548056,
-    "name": "Isle of Man"
+    "name": "Isle of Man (united kingdom)"
   },
   {
     "key": "IN",
@@ -753,7 +753,7 @@
     "key": "KY",
     "latitude": 19.513469,
     "longitude": -80.566956,
-    "name": "Cayman Islands"
+    "name": "Cayman Islands (united kingdom)"
   },
   {
     "key": "KZ",
@@ -903,13 +903,13 @@
     "key": "MP",
     "latitude": 17.33083,
     "longitude": 145.38469,
-    "name": "Northern Mariana Islands"
+    "name": "Northern Mariana Islands (united states)"
   },
   {
     "key": "MQ",
     "latitude": 14.641528,
     "longitude": -61.024174,
-    "name": "Martinique"
+    "name": "Martinique (france)"
   },
   {
     "key": "MR",
@@ -921,7 +921,7 @@
     "key": "MS",
     "latitude": 16.742498,
     "longitude": -62.187366,
-    "name": "Montserrat"
+    "name": "Montserrat (united kingdom)"
   },
   {
     "key": "MT",
@@ -1059,7 +1059,7 @@
     "key": "PF",
     "latitude": -17.679742,
     "longitude": -149.406843,
-    "name": "French Polynesia"
+    "name": "French Polynesia (france)"
   },
   {
     "key": "PG",
@@ -1089,7 +1089,7 @@
     "key": "PM",
     "latitude": 46.941936,
     "longitude": -56.27111,
-    "name": "Saint Pierre and Miquelon"
+    "name": "Saint Pierre and Miquelon (France)"
   },
   {
     "key": "PN",
@@ -1101,7 +1101,7 @@
     "key": "PR",
     "latitude": 18.220833,
     "longitude": -66.590149,
-    "name": "Puerto Rico"
+    "name": "Puerto Rico (united states)"
   },
   {
     "key": "PS",
@@ -1137,7 +1137,7 @@
     "key": "RE",
     "latitude": -21.115141,
     "longitude": 55.536384,
-    "name": "Réunion"
+    "name": "Réunion (france)"
   },
   {
     "key": "RO",
@@ -1203,7 +1203,7 @@
     "key": "SH",
     "latitude": -24.143474,
     "longitude": -10.030696,
-    "name": "Saint Helena"
+    "name": "Saint Helena, Ascension and Tristan da cunha (united kingdom)"
   },
   {
     "key": "SI",
@@ -1287,7 +1287,7 @@
     "key": "TC",
     "latitude": 21.694025,
     "longitude": -71.797928,
-    "name": "Turks and Caicos Islands"
+    "name": "Turks and Caicos Islands (united kingdom)"
   },
   {
     "key": "TD",
@@ -1437,7 +1437,7 @@
     "key": "VG",
     "latitude": 18.420695,
     "longitude": -64.639968,
-    "name": "British Virgin Islands"
+    "name": "British Virgin Islands (united kingdom)"
   },
   {
     "key": "VI",
@@ -1461,7 +1461,7 @@
     "key": "WF",
     "latitude": -13.768752,
     "longitude": -177.156097,
-    "name": "Wallis and Futuna"
+    "name": "Wallis and Futuna (france)"
   },
   {
     "key": "WS",
@@ -1485,7 +1485,7 @@
     "key": "YT",
     "latitude": -12.8275,
     "longitude": 45.166244,
-    "name": "Mayotte"
+    "name": "Mayotte (france)"
   },
   {
     "key": "ZA",
