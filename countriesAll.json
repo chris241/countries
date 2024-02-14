@@ -393,6 +393,7 @@
     "name": "Dominican Republic"
   },
   {
+    "id": 117,
     "key": "DZ",
     "latitude": 28.033886,
     "longitude": 1.659626,
@@ -609,582 +610,637 @@
     "name": "Honduras"
   },
   {
+    "id": 59,
     "key": "HR",
     "latitude": 45.1,
     "longitude": 15.2,
     "name": "Croatia"
   },
   {
+    "id": 193,
     "key": "HT",
     "latitude": 18.971187,
     "longitude": -72.285215,
     "name": "Haiti"
   },
   {
+    "id": 69,
     "key": "HU",
     "latitude": 47.162494,
     "longitude": 19.503304,
     "name": "Hungary"
   },
   {
+    "id": 35,
     "key": "ID",
     "latitude": -0.789275,
     "longitude": 113.921327,
     "name": "Indonesia"
   },
   {
+    "id": 71,
     "key": "IE",
     "latitude": 53.41291,
     "longitude": -8.24389,
     "name": "Ireland"
   },
   {
+    "id": 104,
     "key": "IL",
     "latitude": 31.046051,
     "longitude": 34.851612,
     "name": "Israel"
   },
   {
+    "id": 1721,
     "key": "IM",
     "latitude": 54.236107,
     "longitude": -4.548056,
     "name": "Isle of Man (united kingdom)"
   },
   {
+    "id": 34,
     "key": "IN",
     "latitude": 20.593684,
     "longitude": 78.96288,
     "name": "India"
   },
   {
-    "key": "IO",
-    "latitude": -6.343194,
-    "longitude": 71.876519,
-    "name": "British Indian Ocean Territory"
-  },
-  {
+    "id": 103,
     "key": "IQ",
     "latitude": 33.223191,
     "longitude": 43.679291,
     "name": "Iraq"
   },
   {
+    "id": 102,
     "key": "IR",
     "latitude": 32.427908,
     "longitude": 53.688046,
     "name": "Iran"
   },
   {
+    "id": 70,
     "key": "IS",
     "latitude": 64.963051,
     "longitude": -19.020835,
     "name": "Iceland"
   },
   {
+    "id": 21,
     "key": "IT",
     "latitude": 41.87194,
     "longitude": 12.56738,
     "name": "Italy"
   },
   {
-    "key": "JE",
-    "latitude": 49.214439,
-    "longitude": -2.13125,
-    "name": "Jersey"
-  },
-  {
+    "id": 195,
     "key": "JM",
     "latitude": 18.109581,
     "longitude": -77.297508,
     "name": "Jamaica"
   },
   {
+    "id": 105,
     "key": "JO",
     "latitude": 30.585164,
     "longitude": 36.238414,
     "name": "Jordan"
   },
   {
+    "id": 23,
     "key": "JP",
     "latitude": 36.204824,
     "longitude": 138.252924,
     "name": "Japan"
   },
   {
+    "id": 145,
     "key": "KE",
     "latitude": -0.023559,
     "longitude": 37.906193,
     "name": "Kenya"
   },
   {
+    "id": 73,
     "key": "KG",
     "latitude": 41.20438,
     "longitude": 74.766098,
     "name": "Kyrgyzstan"
   },
   {
+    "id": 33,
     "key": "KH",
     "latitude": 12.565679,
     "longitude": 104.990963,
     "name": "Cambodia"
   },
   {
+    "id": 1363,
     "key": "KI",
     "latitude": -3.370417,
     "longitude": -168.734039,
     "name": "Kiribati"
   },
   {
+    "id": 133,
     "key": "KM",
     "latitude": -11.875001,
     "longitude": 43.872219,
     "name": "Comoros"
   },
   {
+    "id": 200,
     "key": "KN",
     "latitude": 17.357822,
     "longitude": -62.782998,
     "name": "Saint Kitts and Nevis"
   },
   {
+    "id": 27,
     "key": "KP",
     "latitude": 40.339852,
     "longitude": 127.510093,
     "name": "North Korea"
   },
   {
+    "id": 44,
     "key": "KR",
     "latitude": 35.907757,
     "longitude": 127.766922,
     "name": "South Korea"
   },
   {
+    "id": 106,
     "key": "KW",
     "latitude": 29.31166,
     "longitude": 47.481766,
     "name": "Kuwait"
   },
   {
+    "id": 1285,
     "key": "KY",
     "latitude": 19.513469,
     "longitude": -80.566956,
     "name": "Cayman Islands (united kingdom)"
   },
   {
+    "id": 72,
     "key": "KZ",
     "latitude": 48.019573,
     "longitude": 66.923684,
     "name": "Kazakhstan"
   },
   {
+    "id": 36,
     "key": "LA",
     "latitude": 19.85627,
     "longitude": 102.495496,
     "name": "Laos"
   },
   {
+    "id": 107,
     "key": "LB",
     "latitude": 33.854721,
     "longitude": 35.862285,
     "name": "Lebanon"
   },
   {
+    "id": 201,
     "key": "LC",
     "latitude": 13.909444,
     "longitude": -60.978893,
     "name": "Saint Lucia"
   },
   {
+    "id": 75,
     "key": "LI",
     "latitude": 47.166,
     "longitude": 9.555373,
     "name": "Liechtenstein"
   },
   {
+    "id": 45,
     "key": "LK",
     "latitude": 7.873054,
     "longitude": 80.771797,
     "name": "Sri Lanka"
   },
   {
+    "id": 147,
     "key": "LR",
     "latitude": 6.428055,
     "longitude": -9.429499,
     "name": "Liberia"
   },
   {
+    "id": 146,
     "key": "LS",
     "latitude": -29.609988,
     "longitude": 28.233608,
     "name": "Lesotho"
   },
   {
+    "id": 76,
     "key": "LT",
     "latitude": 55.169438,
     "longitude": 23.881275,
     "name": "Lithuania"
   },
   {
+    "id": 77,
     "key": "LU",
     "latitude": 49.815273,
     "longitude": 6.129583,
     "name": "Luxembourg"
   },
   {
+    "id": 74,
     "key": "LV",
     "latitude": 56.879635,
     "longitude": 24.603189,
     "name": "Latvia"
   },
   {
+    "id": 119,
     "key": "LY",
     "latitude": 26.3351,
     "longitude": 17.228331,
     "name": "Libya"
   },
   {
+    "id": 116,
     "key": "MA",
     "latitude": 31.791702,
     "longitude": -7.09262,
     "name": "Morocco"
   },
   {
+    "id": 81,
     "key": "MC",
     "latitude": 43.750298,
     "longitude": 7.412841,
     "name": "Monaco"
   },
   {
+    "id": 80,
     "key": "MD",
     "latitude": 47.411631,
     "longitude": 28.369885,
     "name": "Moldova"
   },
   {
+    "id": 82,
     "key": "ME",
     "latitude": 42.708678,
     "longitude": 19.37439,
     "name": "Montenegro"
   },
   {
-    "key": "MF",
-    "latitude": 18.0825500,
-    "longitude": -63.0522510,
-    "name": "Saint Martin"
-  },
-  {
+    "id": 148,
     "key": "MG",
     "latitude": -18.766947,
     "longitude": 46.869107,
     "name": "Madagascar"
   },
   {
+    "id": 1365,
     "key": "MH",
     "latitude": 7.131474,
     "longitude": 171.184478,
     "name": "Marshall Islands"
   },
   {
+    "id": 78,
     "key": "MK",
     "latitude": 41.608635,
     "longitude": 21.745275,
     "name": "Macedonia [FYROM]"
   },
   {
+    "id": 162,
     "key": "ML",
     "latitude": 17.570692,
     "longitude": -3.996166,
     "name": "Mali"
   },
   {
+    "id": 40,
     "key": "MM",
     "latitude": 21.913965,
     "longitude": 95.956223,
     "name": "Myanmar"
   },
   {
+    "id": 39,
     "key": "MN",
     "latitude": 46.862496,
     "longitude": 103.846656,
     "name": "Mongolia"
   },
   {
-    "key": "MO",
-    "latitude": 22.198745,
-    "longitude": 113.543873,
-    "name": "Macau"
-  },
-  {
+    "id": 1368,
     "key": "MP",
     "latitude": 17.33083,
     "longitude": 145.38469,
     "name": "Northern Mariana Islands (united states)"
   },
   {
+    "id": 1275,
     "key": "MQ",
     "latitude": 14.641528,
     "longitude": -61.024174,
     "name": "Martinique (france)"
   },
   {
+    "id": 150,
     "key": "MR",
     "latitude": 21.00789,
     "longitude": -10.940835,
     "name": "Mauritania"
   },
   {
+    "id": 1288,
     "key": "MS",
     "latitude": 16.742498,
     "longitude": -62.187366,
     "name": "Montserrat (united kingdom)"
   },
   {
+    "id": 79,
     "key": "MT",
     "latitude": 35.937496,
     "longitude": 14.375416,
     "name": "Malta"
   },
   {
+    "id": 151,
     "key": "MU",
     "latitude": -20.348404,
     "longitude": 57.552152,
     "name": "Mauritius"
   },
   {
+    "id": 38,
     "key": "MV",
     "latitude": 3.202778,
     "longitude": 73.22068,
     "name": "Maldives"
   },
   {
+    "id": 230,
     "key": "MW",
     "latitude": -13.254308,
     "longitude": 34.301525,
     "name": "Malawi"
   },
   {
+    "id": 196,
     "key": "MX",
     "latitude": 23.634501,
     "longitude": -102.552784,
     "name": "Mexico"
   },
   {
+    "id": 37,
     "key": "MY",
     "latitude": 4.210484,
     "longitude": 101.975766,
     "name": "Malaysia"
   },
   {
+    "id": 152,
     "key": "MZ",
     "latitude": -18.665695,
     "longitude": 35.529562,
     "name": "Mozambique"
   },
   {
+    "id": 153,
     "key": "NA",
     "latitude": -22.95764,
     "longitude": 18.49041,
     "name": "Namibia"
   },
   {
+    "id": 1279,
     "key": "NC",
     "latitude": -20.904305,
     "longitude": 165.618042,
     "name": "New Caledonia (france)"
   },
   {
+    "id": 154,
     "key": "NE",
     "latitude": 17.607789,
     "longitude": 8.081666,
     "name": "Niger"
   },
   {
-    "key": "NF",
-    "latitude": -29.040835,
-    "longitude": 167.954712,
-    "name": "Norfolk Island"
-  },
-  {
+    "id": 155,
     "key": "NG",
     "latitude": 9.081999,
     "longitude": 8.675277,
     "name": "Nigeria"
   },
   {
+    "id": 197,
     "key": "NI",
     "latitude": 12.865416,
     "longitude": -85.207229,
     "name": "Nicaragua"
   },
   {
+    "id": 83,
     "key": "NL",
     "latitude": 52.132633,
     "longitude": 5.291266,
     "name": "Netherlands"
   },
   {
+    "id": 84,
     "key": "NO",
     "latitude": 60.472024,
     "longitude": 8.468946,
     "name": "Norway"
   },
   {
+    "id": 29,
     "key": "NP",
     "latitude": 28.394857,
     "longitude": 84.124008,
     "name": "Nepal"
   },
   {
+    "id": 559,
     "key": "NR",
     "latitude": -0.522778,
     "longitude": 166.931503,
     "name": "Nauru"
   },
   {
-    "key": "NU",
-    "latitude": -19.054445,
-    "longitude": -169.867233,
-    "name": "Niue"
-  },
-  {
+    "id": 122,
     "key": "NZ",
     "latitude": -40.900557,
     "longitude": 174.885971,
     "name": "New Zealand"
   },
   {
+    "id": 108,
     "key": "OM",
     "latitude": 21.512583,
     "longitude": 55.923255,
     "name": "Oman"
   },
   {
+    "id": 10,
     "key": "PA",
     "latitude": 8.537981,
     "longitude": -80.782127,
     "name": "Panama"
   },
   {
+    "id": 199,
     "key": "PE",
     "latitude": -9.189967,
     "longitude": -75.015152,
     "name": "Peru"
   },
   {
+    "id": 1276,
     "key": "PF",
     "latitude": -17.679742,
     "longitude": -149.406843,
     "name": "French Polynesia (france)"
   },
   {
+    "id": 285,
     "key": "PG",
     "latitude": -6.314993,
     "longitude": 143.95555,
     "name": "Papua New Guinea"
   },
   {
+    "id": 42,
     "key": "PH",
     "latitude": 12.879721,
     "longitude": 121.774017,
     "name": "Philippines"
   },
   {
+    "id": 41,
     "key": "PK",
     "latitude": 30.375321,
     "longitude": 69.345116,
     "name": "Pakistan"
   },
   {
+    "id": 85,
     "key": "PL",
     "latitude": 51.919438,
     "longitude": 19.145136,
     "name": "Poland"
   },
   {
+    "id": 1280,
     "key": "PM",
     "latitude": 46.941936,
     "longitude": -56.27111,
     "name": "Saint Pierre and Miquelon (France)"
   },
   {
+    "id": 1289,
     "key": "PN",
     "latitude": -24.703615,
     "longitude": -127.439308,
     "name": "Pitcairn Islands"
   },
   {
+    "id": 319,
     "key": "PR",
     "latitude": 18.220833,
     "longitude": -66.590149,
     "name": "Puerto Rico (united states)"
   },
   {
+    "id": 109,
     "key": "PS",
     "latitude": 31.952162,
     "longitude": 35.233154,
     "name": "Palestinian Territories"
   },
   {
+    "id": 86,
     "key": "PT",
     "latitude": 39.399872,
     "longitude": -8.224454,
     "name": "Portugal"
   },
   {
+    "id": 1364,
     "key": "PW",
     "latitude": 7.51498,
     "longitude": 134.58252,
     "name": "Palau"
   },
   {
+    "id": 198,
     "key": "PY",
     "latitude": -23.442503,
     "longitude": -58.443832,
     "name": "Paraguay"
   },
   {
+    "id": 110,
     "key": "QA",
     "latitude": 25.354826,
     "longitude": 51.183884,
     "name": "Qatar"
   },
   {
+    "id": 1273,
     "key": "RE",
     "latitude": -21.115141,
     "longitude": 55.536384,
     "name": "Réunion (france)"
   },
   {
+    "id": 87,
     "key": "RO",
     "latitude": 45.943161,
     "longitude": 24.96676,
     "name": "Romania"
   },
   {
+    "id": 90,
     "key": "RS",
     "latitude": 44.016521,
     "longitude": 21.005859,
     "name": "Serbia"
   },
   {
+    "id": 88,
     "key": "RU",
     "latitude": 61.52401,
     "longitude": 105.318756,
     "name": "Russia"
   },
   {
+    "id": 157,
     "key": "RW",
     "latitude": -1.940278,
     "longitude": 29.873888,
     "name": "Rwanda"
   },
   {
+    "id": 111,
     "key": "SA",
     "latitude": 23.885942,
     "longitude": 45.079162,
     "name": "Saudi Arabia"
   },
   {
+    "id": 286,
     "key": "SB",
     "latitude": -9.64571,
     "longitude": 160.156194,
@@ -1497,24 +1553,28 @@
     "name": "Yemen"
   },
   {
+    "id": 1278,
     "key": "YT",
     "latitude": -12.8275,
     "longitude": 45.166244,
     "name": "Mayotte (france)"
   },
   {
+    "id": 163,
     "key": "ZA",
     "latitude": -30.559482,
     "longitude": 22.937506,
     "name": "South Africa"
   },
   {
+    "id": 170,
     "key": "ZM",
     "latitude": -13.133897,
     "longitude": 27.849332,
     "name": "Zambia"
   },
   {
+    "id": 171,
     "key": "ZW",
     "latitude": -19.015438,
     "longitude": 29.154857,
