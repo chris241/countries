@@ -1247,144 +1247,154 @@
     "name": "Solomon Islands"
   },
   {
+    "id": 160,
     "key": "SC",
     "latitude": -4.679574,
     "longitude": 55.491977,
     "name": "Seychelles"
   },
   {
+    "id": 165,
     "key": "SD",
     "latitude": 12.862807,
     "longitude": 30.217636,
     "name": "Sudan"
   },
   {
+    "id": 93,
     "key": "SE",
     "latitude": 60.128161,
     "longitude": 18.643501,
     "name": "Sweden"
   },
   {
+    "id": 43,
     "key": "SG",
     "latitude": 1.352083,
     "longitude": 103.819836,
     "name": "Singapore"
   },
   {
+    "id": 1290,
     "key": "SH",
     "latitude": -24.143474,
     "longitude": -10.030696,
     "name": "Saint Helena, Ascension and Tristan da cunha (united kingdom)"
   },
   {
+    "id": 92,
     "key": "SI",
     "latitude": 46.151241,
     "longitude": 14.995463,
     "name": "Slovenia"
   },
   {
-    "key": "SJ",
-    "latitude": 77.553604,
-    "longitude": 23.670272,
-    "name": "Svalbard and Jan Mayen"
-  },
-  {
+    "id": 91,
     "key": "SK",
     "latitude": 48.669026,
     "longitude": 19.699024,
     "name": "Slovakia"
   },
   {
+    "id": 161,
     "key": "SL",
     "latitude": 8.460555,
     "longitude": -11.779889,
     "name": "Sierra Leone"
   },
   {
+    "id": 89,
     "key": "SM",
     "latitude": 43.94236,
     "longitude": 12.457777,
     "name": "San Marino"
   },
   {
+    "id": 159,
     "key": "SN",
     "latitude": 14.497401,
     "longitude": -14.452362,
     "name": "Senegal"
   },
   {
+    "id": 162,
     "key": "SO",
     "latitude": 5.152149,
     "longitude": 46.199616,
     "name": "Somalia"
   },
   {
+    "id": 203,
     "key": "SR",
     "latitude": 3.919305,
     "longitude": -56.027783,
     "name": "Suriname"
   },
   {
+    "id": 158,
     "key": "ST",
     "latitude": 0.18636,
     "longitude": 6.613081,
     "name": "São Tomé and Príncipe"
   },
   {
+    "id": 189,
     "key": "SV",
     "latitude": 13.794185,
     "longitude": -88.89653,
     "name": "El Salvador"
   },
   {
+    "id": 1271,
     "key": "SX",
     "latitude": 18.030827,
     "longitude": -63.073633,
     "name": "Sint Maarten"
   },
   {
+    "id": 112,
     "key": "SY",
     "latitude": 34.802075,
     "longitude": 38.996815,
     "name": "Syria"
   },
   {
+    "id": 112,
     "key": "SZ",
     "latitude": -26.522503,
     "longitude": 31.465866,
     "name": "Swaziland"
   },
   {
+    "id": 1292,
     "key": "TC",
     "latitude": 21.694025,
     "longitude": -71.797928,
     "name": "Turks and Caicos Islands (united kingdom)"
   },
   {
+    "id": 132,
     "key": "TD",
     "latitude": 15.454166,
     "longitude": 18.732207,
     "name": "Chad"
   },
   {
-    "key": "TF",
-    "latitude": -49.280366,
-    "longitude": 69.348557,
-    "name": "French Southern Territories"
-  },
-  {
+    "id": 168,
     "key": "TG",
     "latitude": 8.619543,
     "longitude": 0.824782,
     "name": "Togo"
   },
   {
+    "id": 47,
     "key": "TH",
     "latitude": 15.870032,
     "longitude": 100.992541,
     "name": "Thailand"
   },
   {
+    "id": 95,
     "key": "TJ",
     "latitude": 38.861034,
     "longitude": 71.276093,
@@ -1457,24 +1467,21 @@
     "name": "Ukraine"
   },
   {
+    "id": 169,
     "key": "UG",
     "latitude": 1.373333,
     "longitude": 32.290275,
     "name": "Uganda"
   },
   {
-    "key": "UM",
-    "latitude": 0,
-    "longitude": 0,
-    "name": "U.S. Minor Outlying Islands"
-  },
-  {
+    "id": 205,
     "key": "US",
     "latitude": 37.09024,
     "longitude": -95.712891,
     "name": "United States"
   },
   {
+    "id": 206,
     "key": "UY",
     "latitude": -32.522779,
     "longitude": -55.765835,
@@ -1547,6 +1554,7 @@
     "name": "Kosovo"
   },
   {
+    "id": 115,
     "key": "YE",
     "latitude": 15.552727,
     "longitude": 48.516388,
